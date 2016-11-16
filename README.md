@@ -24,7 +24,7 @@ Method
 
 Header
 
-* Content-Type : application/json\n
+* Content-Type : application/json
 
 Parameters
 
